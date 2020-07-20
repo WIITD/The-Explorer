@@ -1,2 +1,2 @@
 # The-Explorer
-Exploration game
+This game was made in PICO-8.
